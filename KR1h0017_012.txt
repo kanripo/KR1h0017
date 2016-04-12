@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論孟精義
-#+DATE: 2016-04-12 13:59:32.670534
+#+DATE: 2016-04-12 13:59:33.811654
 #+PROPERTY: ID KR1h0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR1h0017_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -581,7 +581,7 @@
 ¶
 　　侯曰夫子之志則老者安之朋友信之少者懷之夫¶
 子之在邦家則立之斯立道之斯行綏之斯來動之¶
-斯和夫如是訟何自而興哉堯之&KR0058;民於變時雍文¶
+斯和夫如是訟何自而興哉堯之黎民於變時雍文¶
 王之民耕讓畔行讓路皆其徵也此孔子所以言必¶
 <pb:KR1h0017_WYG_012-28b>¶
 也使無訟乎有訟則孰不能聽之哉¶

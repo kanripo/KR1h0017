@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論孟精義
-#+DATE: 2016-04-12 13:59:32.745459
+#+DATE: 2016-04-12 13:59:33.887902
 #+PROPERTY: ID KR1h0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR1h0017_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -1143,7 +1143,7 @@
 　　侯曰天之生聖人也豈偶然哉必有以任之也聖人¶
 <pb:KR1h0017_WYG_014-51b>¶
 受天之付與也豈敢恝然忘天下哉必知天之所以¶
-𢌿付之意以斯文為己任也如晨門者豈知此哉¶
+卑付之意以斯文為己任也如晨門者豈知此哉¶
 ¶
 　　子擊磬於衛有荷蕢而過孔氏之門者曰有心哉擊磬¶
 乎旣而曰鄙哉硜硜乎莫己知也斯己而已矣深則厲¶

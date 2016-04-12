@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論孟精義
-#+DATE: 2016-04-12 13:59:32.606517
+#+DATE: 2016-04-12 13:59:33.738105
 #+PROPERTY: ID KR1h0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR1h0017_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -270,9 +270,9 @@
 ¶
 　　尹曰衣所以覆裘故其色如之¶
 ¶
-　　䙝裘長短右&KR0209;¶
+　　䙝裘長短右𬒮¶
 ¶
-　　尹曰裘長欲其温體&KR0209;短以便事¶
+　　尹曰裘長欲其温體𬒮短以便事¶
 ¶
 　　必有寢衣長一身有半¶
 ¶

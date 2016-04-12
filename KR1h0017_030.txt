@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論孟精義
-#+DATE: 2016-04-12 13:59:33.140785
+#+DATE: 2016-04-12 13:59:34.286345
 #+PROPERTY: ID KR1h0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 30
 <pb:KR1h0017_WYG_030-1a>¶
 　　欽定四庫全書¶
@@ -26,7 +26,7 @@
 之嚴如此而猶有流者夷惠之行不已其流必至于¶
 孟子所論夷是聖人極清處惠是聖人極和處聖人¶
 則兼之而時出之清和何至于偏其流則必有害至¶
-于言伊尹始在𤱶畝五就湯五就桀三聘幡然而從¶
+于言伊尹始在畎畝五就湯五就桀三聘幡然而從¶
 豈不是時然後來見其以天下自任故以為聖人之¶
 <pb:KR1h0017_WYG_030-2a>¶
 任¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論孟精義
-#+DATE: 2016-04-12 13:59:32.507441
+#+DATE: 2016-04-12 13:59:33.631225
 #+PROPERTY: ID KR1h0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR1h0017_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -24,7 +24,7 @@
 而已矣亦信而已矣竊比於我老彭所以尊古人言¶
 不自我始也人君豈可不以先王為法哉¶
 ¶
-　　吕曰老&KR0360;彭祖殷周之老成人二者皆老彭之事故¶
+　　吕曰老𣆀彭祖殷周之老成人二者皆老彭之事故¶
 孔子取之¶
 ¶
 　　謝曰事有述有作至於道則無述作之殊時有古有¶
